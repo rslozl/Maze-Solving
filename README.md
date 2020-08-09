@@ -8,7 +8,7 @@ git https://github.com/rslozl/Maze-Solving.git
 cd Maze-Solving
 ```
 
-![]()
+![](https://raw.githubusercontent.com/rslozl/Maze-Solving/master/1.png)
 
 
 
