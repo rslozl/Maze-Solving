@@ -1,2 +1,2 @@
-# Maze-Solving-
+# Maze-Solving
 Maze Solving With OpenCv
